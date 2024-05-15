@@ -1,3 +1,6 @@
 [submodule "api-enconder"]
 	path = api-enconder
 	url = git@github.com:Nesrux/api-enconder.git
+[submodule "admin-do-catalogo"]
+	path = admin-do-catalogo
+	url = git@github.com:Nesrux/admin-do-catalogo.git
