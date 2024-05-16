@@ -10,9 +10,12 @@
 <br />
 
 #  🚧 O Projeto esta em desenvolvimento  🚧
-### Todo:
- * [] Microsserviço adimin catalogo
- * [] Microsserviço enconder de videos
+### Em Construção:
+ * Microsserviço Admin do Catalogo
+ 
+ * Microsserviço Enconder de Videos
+
+### Em Planejamento
  * [] Microsserviço - API do Catálogo com Java
  * [] Front-end do admin 
  * [] Front-end do usuario
