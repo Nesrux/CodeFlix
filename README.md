@@ -10,11 +10,13 @@
 <br />
 
 #  🚧 O Projeto esta em desenvolvimento  🚧
-### Em Construção:
- * Microsserviço Admin do Catalogo
- 
- * Microsserviço Enconder de Videos
+## Em Construção:
+ ### Microsserviço Admin do Catalogo
+  Microsserviço feito em Java 17 e Spring do Administrador do sistma.
 
+ ### Microsserviço Enconder de Videos
+  Microsserviço feito em Golang de enconde de videos de Mp4 para MPEG-DASH
+  
 ### Em Planejamento
  * Microsserviço - API do Catálogo com Java
  * Front-end do admin 
