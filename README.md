@@ -16,6 +16,6 @@
  * Microsserviço Enconder de Videos
 
 ### Em Planejamento
- * [] Microsserviço - API do Catálogo com Java
- * [] Front-end do admin 
- * [] Front-end do usuario
+ * Microsserviço - API do Catálogo com Java
+ * Front-end do admin 
+ * Front-end do usuario
