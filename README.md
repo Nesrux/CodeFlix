@@ -20,5 +20,7 @@
 
 ## Em Planejamento
  * Microsserviço - API do Catálogo com Java
+ * MicroSserviço - Assinatura do serviço
  * Front-end do admin 
  * Front-end do usuario
+ * Configuração do deploy em Kubernetes
