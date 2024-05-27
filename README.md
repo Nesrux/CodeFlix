@@ -18,7 +18,7 @@
  ### Microsserviço Enconder de Videos
   Microsserviço feito em Golang de enconde de videos de Mp4 para MPEG-DASH
 
-### Em Planejamento
+## Em Planejamento
  * Microsserviço - API do Catálogo com Java
  * Front-end do admin 
  * Front-end do usuario
