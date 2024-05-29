@@ -14,10 +14,13 @@
  ### Microsserviço Admin do Catalogo
   Microsserviço feito em Java 17 e Spring do Administrador do sistma.
 
+## Completos
  ### Microsserviço Enconder de Videos
   Microsserviço feito em Golang de enconde de videos de Mp4 para MPEG-DASH
-  
-### Em Planejamento
+
+## Em Planejamento
  * Microsserviço - API do Catálogo com Java
+ * MicroSserviço - Assinatura do serviço
  * Front-end do admin 
  * Front-end do usuario
+ * Configuração do deploy em Kubernetes
