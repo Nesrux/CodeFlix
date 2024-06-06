@@ -13,6 +13,8 @@
 ## Em Construção:
  ### Microsserviço Admin do Catalogo
   Microsserviço feito em Java 17 e Spring do Administrador do sistma.
+ ### Front-end do administrador do catalogo de vídeos
+  Front-end feito em typescript, React e Redux utilizando a lib Material UI
 
 ## Completos
  ### Microsserviço Enconder de Videos
@@ -21,6 +23,5 @@
 ## Em Planejamento
  * Microsserviço - API do Catálogo com Java
  * MicroSserviço - Assinatura do serviço
- * Front-end do admin 
  * Front-end do usuario
  * Configuração do deploy em Kubernetes
