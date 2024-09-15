@@ -4,9 +4,6 @@
 [submodule "admin-do-catalogo"]
 	path = admin-do-catalogo
 	url = git@github.com:Nesrux/admin-do-catalogo.git
-[submodule "admin-do-catalogo-front"]
-	path = admin-do-catalogo-front
-	url = git@github.com:Nesrux/admin-do-catalogo-front.git
 [submodule "api-catalogo-de-videos"]
 	path = api-catalogo-de-videos
 	url = git@github.com:Nesrux/api-catalogo-de-videos.git
