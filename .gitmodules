@@ -8,3 +8,7 @@
 	path = api-catalogo-de-videos
 	url = git@github.com:Nesrux/api-catalogo-de-videos.git
 	branch = develop
+[submodule "Front-Codeflix"]
+	path = Front-Codeflix
+	url = https://github.com/Nesrux/Front-Codeflix
+	branch = main
